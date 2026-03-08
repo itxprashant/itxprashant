@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prashant+Tiwari+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Maths+%26+Computing+Student;at+IIT+Delhi" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itxprashant&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-</div>
 
 ---
 
@@ -97,20 +90,3 @@ Here are some of the standout projects I've built.
 </details>
 
 <br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itxprashant&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Prashant's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxprashant&theme=tokyonight&hide_border=true" alt="Prashant's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxprashant&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
----
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</div>
