@@ -14,7 +14,7 @@
 
 <br>
 
-Site: itxprashant.app
+Site: https://itxprashant.app/
 
 ### 🛠️ Tech Stack & Tools
 
